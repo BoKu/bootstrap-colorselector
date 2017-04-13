@@ -9,7 +9,7 @@ This is why it is called "colorselector" rather than "colorpicker".
 ## Methods
 
 ### $().colorselector('fadeToColor', value)
-Sets a color specified.
+Fades the button to the selected color
 ```javascript
 $('#element').colorselector('fadeToColor', '#FF0000');
 $('#element').colorselector('fadeToColor', 'rgb(255,0,0)');
